@@ -1,0 +1,129 @@
+{
+    "NOMBRE_PLANIFICADOR": [
+        "JORGE HERNAN",
+        "JUAN CAMILO HERRERA",
+        "ALEJANDRO LOPEZ",
+        "CHRYSTIAM GOMEZ"
+    ],
+    "NOMBRE_INTERVENTOR": [
+        "LUIS MIGUEL BEDOYA HERNANDEZ",
+        "EGLIN STIVEN ARTEAGA CASTRO",
+        "LEONEL RUIZ OCHOA",
+        "ORTY VARGAS FLOREZ",
+        "CRISTIAN FERNANDO GOMEZ DAMELINES",
+        "JORGE OVIDIO CASTAÑO GARAY",
+        "NESTOR ANDRES MARTINEZ GONZALEZ",
+        "JUAN CARLOS AVILA ROJAS",
+        "JAIRO ALONSO MARULANDA AGUDELO",
+        "JOHN FREDY GOMEZ OSORIO",
+        "WILBER CASTRO SANCHEZ",
+        "ALEJANDRO LOPEZ",
+        "DIEGO FERNANDO FORERO SIERRA"
+    ],
+    "NOMBRE_CLASIFICACION": [
+        "CONTROL SAIDI",
+        "CONTROL DIU",
+        "ACOMPAÑAMIENTO AT3",
+        "ARMONIA ELECTROVEGETAL",
+        "CLIENTES DESTACADOS",
+        "CONTROL ARBOREO URBANO",
+        "CONTROL CABECERAS",
+        "CONTROL GUADUALES",
+        "CRITICIDAD ACTIVOS NT1",
+        "CUMPLIMIENTO RETIE",
+        "PREVENTIVO URBANO (LV)",
+        "INSPECCION TRASNFERENCIA",
+        "INSPECCION RECONECTADORES",
+        "INSPECCION SEC. REPETICION",
+        "MTTO RED SUBTERRANEA",
+        "MTTO L33",
+        "NORMALIZACION RECONECTADORES",
+        "PORTAFOLIO",
+        "PQR ELECTRICA",
+        "PQR FORESTAL",
+        "APOYO INTERNO",
+        "SOLICITUD ELECTRICA CC",
+        "SOLICITUD FORESTAL CC",
+        "VERIFICACION"
+    ],
+    "CLASIFICACION": [
+        "PVMTTO \\ CONTROL_SAIDI",
+        "PVMTTO \\ CDIU",
+        "PVMTTO \\ ACOMPA",
+        "PVMTTO \\ AEV",
+        "PVMTTO \\ CLIDEST",
+        "PVMTTO \\ CONTROL_ARBOREO_URB",
+        "PVMTTO \\ CONTROL_CABECERAS_TRONC",
+        "PVMTTO \\ CONTROL_GUADUALES",
+        "PVMTTO \\ CRIACTNT1",
+        "PVMTTO \\ CURET",
+        "PVMTTO \\ PRURB",
+        "PVMTTO \\ INSPTRANSF",
+        "PVMTTO \\ INSPECRECON",
+        "PVMTTO \\ INSPSECCREP",
+        "PVMTTO \\ MTTO_RED_SUB",
+        "PVMTTO \\ MTTO_PREVENTIVO_INTEG_33KV",
+        "PVMTTO \\ NRECO",
+        "PVMTTO \\ PORT",
+        "PVMTTO \\ PQRELE",
+        "PVMTTO \\ PQRP",
+        "PVMTTO \\ APINT",
+        "PVMTTO \\ SECCEDEQ",
+        "PVMTTO \\ SFCCEDEQ",
+        "PVMTTO \\ VERIFO"
+    ],
+    "PLAN_TRABAJO": [
+        "PQR_CON_UCs",
+        "PQR_SIN_UCs",
+        "ELECTRICA_CON_UCs",
+        "ELECTRICA_SIN_Ucs",
+        "FORESTAL"
+    ],
+    "TIPO_TRABAJO": [
+        "MBC",
+        "PROYE",
+        "ATTER",
+        "PROYE",
+        "MBC",
+        "MBC"
+    ],
+    "GROT": [
+        "DEE07",
+        "DEE14",
+        "DEE27"
+    ],
+    
+    "INTERVENTOR": [
+        "9862651",
+        "1097397844",
+        "18520595",
+        "1094879090",
+        "14568608",
+        "18463876",
+        "4376064",
+        "9930138",
+        "9739140",
+        "4518170",
+        "18391069",
+        "9809458"
+    ],
+    "UNIDAD_NEGOCIO": [
+        "06337600",
+        "33REPOSIMTTO"
+    ],
+    "ACTIVIDAD_COSTEO": [
+        "742"
+    ],
+    "CONTRATO": [
+        "CW215795"
+    ],
+    "PRIORIDAD": [
+        "1.0",
+        "2.0",
+        "3.0",
+        "1",
+        "2",
+        "3"
+        
+    ]
+}
